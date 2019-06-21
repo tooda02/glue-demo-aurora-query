@@ -1,0 +1,15 @@
+{
+  "name": "glue-example",
+  "version": "1.0.0",
+  "description": "VP TPMS West Glue example - W25",
+  "main": "query.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Tootill",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.17.1",
+    "sprintf-js": "^1.1.2"
+  }
+}
