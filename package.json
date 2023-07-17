@@ -9,7 +9,7 @@
   "author": "David Tootill",
   "license": "ISC",
   "dependencies": {
-    "mysql": "^2.17.1",
+    "mysql": "^2.18.0",
     "sprintf-js": "^1.1.2"
   }
 }
